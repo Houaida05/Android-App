@@ -66,11 +66,7 @@ public class Login extends AppCompatActivity {
                 StrictMode.setThreadPolicy(policy);
 
 
-                //String url="http://172.16.110.10/user.php";
-             //  String url="http://192.168.43.122/user.php";
-               String url="http://172.16.110.10/user.php";
-               // String url="http://172.16.110.40/user.php";
-
+               
 
                 // Request parameters and other properties.
                 List<NameValuePair> params = new ArrayList<NameValuePair>(2);
