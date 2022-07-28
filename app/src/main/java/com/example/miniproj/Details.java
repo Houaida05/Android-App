@@ -84,11 +84,7 @@ public class Details extends AppCompatActivity {
         StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
         StrictMode.setThreadPolicy(policy);
 
-        //  String url="http://172.16.110.40/project/user.php";
-      //  String url = "http://192.168.43.122/one.php";
-        //  String url="http://172.16.110.10/user.php?username="+userName+"&pwd="+pwd;
-       // String url="http://172.16.110.40/one.php";
-        String url="http://172.16.110.10/one.php";
+      
 
 
         // Request parameters and other properties.
