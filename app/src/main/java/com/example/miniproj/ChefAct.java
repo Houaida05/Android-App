@@ -50,10 +50,6 @@ public class ChefAct extends AppCompatActivity {
         StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
         StrictMode.setThreadPolicy(policy);
 
-        // String url = "http://172.16.110.40/project/addIssue.php";
-        String url = "http://172.16.110.10/all.php";
-       // String url="http://192.168.1.2/all.php";
-      //  String url="http://172.16.110.40/all.php";
 
 
 
