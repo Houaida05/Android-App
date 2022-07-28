@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name"> SNCFT </string>
+    <string name="hello_world">hello</string>
+    <string-array name="types_array">
+        <item>chef</item>
+        <item>tech</item>
+    </string-array>
+    <string name="select" > select </string>
+</resources>
